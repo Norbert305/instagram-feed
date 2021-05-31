@@ -1,0 +1,120 @@
+body {
+    background-color:#EAEAEA;
+}
+
+.container {
+width: 500px;
+height: 2800px;
+margin: 70px auto;
+display: flex;
+flex-direction: column;
+background-color: #EAEAEA;
+}
+
+.photo1 {
+    width: 500px;
+    height: 700px;;
+}
+
+.photo2 {
+    width: 500px;
+    height: 700px;
+}
+
+.photo3 {
+    width: 500px;
+    height: 700px;
+}
+
+.photo4 {
+    width: 500px;
+    height: 700px;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
+
+h1 {
+    text-align: center;
+    padding: 30px;
+}
+
+.h1container {
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    position: relative;
+    bottom: 21px;
+}
+
+.basketballtext {
+    width: 500px;
+    height: 100px;
+    background-color:lightcyan;
+    position: relative;
+    top: -22px;
+}
+
+.top1 {
+    width: 500px;
+    height: 50px;
+    background-color: lightgrey
+}
+
+.top2 {
+    width: 500px;
+    height: 50px;
+    background-color: lightgrey
+}
+
+.chesstext {
+     width: 500px;
+    height: 100px;
+    background-color:lightcyan;
+    position: relative;
+    top: -22px;
+}
+
+.top3 {
+     width: 500px;
+    height: 50px;
+    background-color: lightgrey;
+}
+
+.videogametext {
+      width: 500px;
+    height: 100px;
+    background-color:lightcyan;
+    position: relative;
+    top: -22px;
+}
+
+.top4 {
+    width: 500px;
+    height: 50px;
+    background-color: lightgrey;
+}
+
+.moviestext {
+       width: 500px;
+    height: 100px;
+    background-color:lightcyan;
+    position: relative;
+    top: -22px;
+}
+
+strong {
+    font-size: larger;
+    padding: 10px;
+    position: relative;
+    bottom: -11px;
+}
+
+p {
+    font-weight: 300;
+    font-size: large;
+    padding: 10px;
+}
+
